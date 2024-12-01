@@ -1,0 +1,7 @@
+pyrebase4
+numpy
+flask
+scipy
+# packaging
+# python-dotnev
+# cgi
